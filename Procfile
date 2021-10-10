@@ -1,1 +1,1 @@
-web: gunicorn app1:app
+web: gunicorn flask_predict_html_form:app
